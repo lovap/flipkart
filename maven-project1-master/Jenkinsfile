@@ -1,5 +1,6 @@
 ##modified second time modified
-node {
+node()
+{
    stage('Cont.Download') 
      {
     git 'https://github.com/lovap/flipkart.git'
